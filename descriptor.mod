@@ -1,0 +1,11 @@
+version="1"
+dependencies={
+	"Kaiserreich"
+	"Kaiserreich(CN.Ver)"
+}
+tags={
+	"Gameplay"
+}
+name="KR直系大清国策内容扩展（新）"
+supported_version="1.17.3.0"
+remote_file_id="3616583894"
